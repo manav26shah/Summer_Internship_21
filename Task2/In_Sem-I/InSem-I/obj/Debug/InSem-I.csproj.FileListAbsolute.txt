@@ -1,0 +1,7 @@
+D:\SI\Track 4\Practice\Task-2\InSem-I\bin\Debug\InSem-I.exe.config
+D:\SI\Track 4\Practice\Task-2\InSem-I\bin\Debug\InSem-I.exe
+D:\SI\Track 4\Practice\Task-2\InSem-I\bin\Debug\InSem-I.pdb
+D:\SI\Track 4\Practice\Task-2\InSem-I\obj\Debug\InSem-I.csproj.AssemblyReference.cache
+D:\SI\Track 4\Practice\Task-2\InSem-I\obj\Debug\InSem-I.csproj.CoreCompileInputs.cache
+D:\SI\Track 4\Practice\Task-2\InSem-I\obj\Debug\InSem-I.exe
+D:\SI\Track 4\Practice\Task-2\InSem-I\obj\Debug\InSem-I.pdb
