@@ -1,0 +1,7 @@
+D:\SI\Track 4\Practice\Task-2\In_Sem-II\bin\Debug\In_Sem-II.exe.config
+D:\SI\Track 4\Practice\Task-2\In_Sem-II\bin\Debug\In_Sem-II.exe
+D:\SI\Track 4\Practice\Task-2\In_Sem-II\bin\Debug\In_Sem-II.pdb
+D:\SI\Track 4\Practice\Task-2\In_Sem-II\obj\Debug\In_Sem-II.csproj.AssemblyReference.cache
+D:\SI\Track 4\Practice\Task-2\In_Sem-II\obj\Debug\In_Sem-II.csproj.CoreCompileInputs.cache
+D:\SI\Track 4\Practice\Task-2\In_Sem-II\obj\Debug\In_Sem-II.exe
+D:\SI\Track 4\Practice\Task-2\In_Sem-II\obj\Debug\In_Sem-II.pdb
